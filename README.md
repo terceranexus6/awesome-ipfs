@@ -189,6 +189,7 @@ Sniffs the DHT gossip and indexes file and directory hashes. Metadata and search
 - [Public gateway status checker](https://ipfs.fooock.com/) - Web app to check public states of IPFS gateways, including latency and gateway writable state. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - Easy to use IPFS desktop client for macOS, Windows and Linux [Source](https://github.com/Siderus/Orion)
 - [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - Full node for Android
+- [TELLIT](https://gitlab.com/terceranexus6/tellit) - Encrypt data before uploading it using a keypair or a passphrase
 
 ## Videos
 
